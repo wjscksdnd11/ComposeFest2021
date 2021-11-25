@@ -53,4 +53,5 @@ fun JetnewsTheme(
         shapes = JetnewsShapes,
         content = content
     )
+
 }
