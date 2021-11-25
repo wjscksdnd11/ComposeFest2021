@@ -57,4 +57,5 @@ class TodoViewModel : ViewModel() {
 
         todoItems[currentEditPosition] = item
     }
+
 }
